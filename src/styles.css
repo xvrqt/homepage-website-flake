@@ -27,7 +27,7 @@ body::-webkit-scrollbar {
     flex-wrap: nowrap;
     flex-direction: column;
 
-    margin: 5% auto;
+    margin: 10px auto;
     align-items: center;
     align-content: flex-start;
     justify-content: center;
